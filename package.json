@@ -1,6 +1,6 @@
 {
   "name": "@zmcinema/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "commonjs",
   "description": "Core utilities and shared code for the zmcinema project",
   "publishConfig": {
