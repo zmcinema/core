@@ -1,0 +1,9 @@
+.github/*
+node_modules/
+dist/
+build/
+pnpm-lock.yaml
+.env
+.DS_Store
+.idea/
+.log*
