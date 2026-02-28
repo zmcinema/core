@@ -1,8 +1,8 @@
 {
-  "name": "@mcinema/core",
+  "name": "@zmcinema/core",
   "version": "1.0.0",
   "type": "commonjs",
-  "description": "Core utilities and shared code for the mcinema project",
+  "description": "Core utilities and shared code for the zmcinema project",
   "publishConfig": {
     "access": "public"
   },
