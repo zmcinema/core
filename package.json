@@ -1,0 +1,21 @@
+{
+  "name": "@mcinema/core",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Core utilities and shared code for the mcinema project",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2"
+  },
+  "exports": {
+    "prettier": "./src/prettier.config.mjs"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "author": "Dimas <zah999@gmail.com>"
+}
